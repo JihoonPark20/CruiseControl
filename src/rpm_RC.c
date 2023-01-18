@@ -1,13 +1,5 @@
 /*
  * rpm_RC.c
- *
- *  Created on: 2017. 6. 28.
- *      Author: ghbae
- */
-
-
-/*
- * rpm_RC.c
 
  *
  *  Created on: 2017. 6. 27.
